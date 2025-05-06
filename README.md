@@ -11,7 +11,7 @@ To build a Python program that:
  Calculates and returns change when necessary
  Notifies users when ingredients are insufficient for a selected drink
 
-## 🛠 Technologies Used
+##  Technologies Used
 
   **Python** (standard library)
   **Functions** for modular design
